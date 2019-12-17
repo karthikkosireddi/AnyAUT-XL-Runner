@@ -24399,3 +24399,34 @@ The contract was updated!
 2019-12-16 12:00:35,540 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: id ,Element ID: page-title ,Test Data: Search
 2019-12-16 12:00:35,617 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: name ,Element ID: search_number ,Test Data: 123
 2019-12-16 12:00:35,765 - com.AnyAUT.ExecuteTest -INFO - KW: clickButton ,Element Type: Reusable Element ,Element By: id ,Element ID: btn-search-view-filters-save ,Test Data: -
+2019-12-16 22:21:19,916 - com.AnyAUT.PrepareRun -INFO - Input FIle Path: C:\Users\subha\git\AnyAUT-XL-Runner\Demo.xls
+2019-12-16 22:21:19,937 - com.AnyAUT.PrepareRun -INFO - Output file path  :C:\Users\subha\git\AnyAUT-XL-Runner\Results\TestRun_16Dec_1021/TestRun_16Dec_1021.xls
+2019-12-16 22:21:21,028 - com.AnyAUT.PrepareRun -INFO - Entered Main Test
+2019-12-16 22:21:21,029 - com.AnyAUT.PrepareRun -INFO - Completed fetching the test cases ready for execution
+2019-12-16 22:21:21,032 - com.AnyAUT.PrepareRun -INFO - Completed assigning the top row
+2019-12-16 22:21:21,040 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2019-12-16 22:21:21,043 - com.AnyAUT.PrepareRun -INFO - Completed fetching test data sets for test case
+2019-12-16 22:21:21,048 - com.AnyAUT.PrepareRun -INFO - Main test preparation is completed
+2019-12-16 22:21:21,056 - com.AnyAUT.PrepareRun -INFO - Test Cases are added to the array
+2019-12-16 22:21:24,343 - com.AnyAUT.ExecuteTest -INFO - C:\Users\subha\git\AnyAUT-XL-Runner/Results/TestRun_16Dec_1021/TestRun_16Dec_1021.xls
+2019-12-16 22:21:24,345 - com.AnyAUT.ExecuteTest -INFO - C:\Users\subha\git\AnyAUT-XL-Runner/Results/TestRun_16Dec_1021/RunResult.xls
+2019-12-16 22:21:24,351 - com.AnyAUT.ExecuteTest -INFO - Rows are 18
+2019-12-16 22:21:24,352 - com.AnyAUT.ExecuteTest -INFO - Cols are 15
+2019-12-16 22:21:24,369 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2019-12-16 22:21:47,001 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://sonnys.sonnyscontrols.com
+2019-12-16 22:21:53,123 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: login-username ,Test Data: karthik
+2019-12-16 22:21:54,088 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: login-password ,Test Data: 12345678
+2019-12-16 22:21:54,681 - com.AnyAUT.ExecuteTest -INFO - KW: clickButton ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@type='submit'] ,Test Data: -
+2019-12-16 22:21:58,019 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: id ,Element ID: report-title ,Test Data: Dashboard
+2019-12-16 22:21:58,455 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //*[@id="btn-user-menu-dropdown"]/span/ ,Test Data: Karthik Kosireddi
+2019-12-16 22:21:58,547 - com.AnyAUT.ExecuteTest -ERROR - Error : InvalidSelectorException
+2019-12-16 22:21:59,646 - com.AnyAUT.ExecuteTest -INFO - KW: closeBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: -
+2019-12-16 22:22:02,527 - com.AnyAUT.ExecuteTest -INFO - KW: openBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: Chrome
+2019-12-16 22:22:15,515 - com.AnyAUT.ExecuteTest -INFO - KW: navigateBrowser ,Element Type: - ,Element By: - ,Element ID: - ,Test Data: https://sonnys.sonnyscontrols.com
+2019-12-16 22:22:18,552 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: login-username ,Test Data: karthik
+2019-12-16 22:22:19,034 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: id ,Element ID: login-password ,Test Data: 12345678
+2019-12-16 22:22:19,294 - com.AnyAUT.ExecuteTest -INFO - KW: clickButton ,Element Type: Reusable Element ,Element By: xpath ,Element ID: //button[@type='submit'] ,Test Data: -
+2019-12-16 22:22:21,792 - com.AnyAUT.ExecuteTest -INFO - KW: clickButton ,Element Type: Reusable Element ,Element By: id ,Element ID: a-link-sidebar-dropdown-search ,Test Data: 
+2019-12-16 22:22:22,948 - com.AnyAUT.ExecuteTest -INFO - KW: verifyText ,Element Type: Reusable Element ,Element By: id ,Element ID: page-title ,Test Data: Search
+2019-12-16 22:22:23,176 - com.AnyAUT.ExecuteTest -INFO - KW: typeText ,Element Type: Reusable Element ,Element By: name ,Element ID: search_number ,Test Data: 123
+2019-12-16 22:22:23,713 - com.AnyAUT.ExecuteTest -INFO - KW: clickButton ,Element Type: Reusable Element ,Element By: id ,Element ID: btn-search-view-filters-save ,Test Data: -
